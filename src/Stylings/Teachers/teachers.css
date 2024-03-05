@@ -1,0 +1,9 @@
+.teachers-card{
+    box-shadow: 5px 5px 5px #0000001b;
+    border-radius: 15px;
+    padding: 5%;
+}
+.teachers-card .card-title{
+    font-size: 150% !important;
+    font-weight: 400;
+}
